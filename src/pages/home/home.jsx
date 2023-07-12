@@ -5,7 +5,7 @@ export default function Home() {
     <>
       <h1>Homepage</h1>
 
-      <ul className="underline link-decoration">
+      <ul className="underline">
         <li>
           <Link to="/auth" className="hover:text-blue-500">
             Auth page
