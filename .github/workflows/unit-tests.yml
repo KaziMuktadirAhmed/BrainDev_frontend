@@ -22,7 +22,7 @@ jobs:
           pwd
           ls -al
           dir
-          cat ./pages/auth/auth.jsx
+          cat ./src/pages/auth/auth.jsx
         shell: bash
 
       - name: Pre build project for good measure
