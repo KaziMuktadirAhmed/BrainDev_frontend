@@ -3,8 +3,8 @@ import { Link } from "react-router-dom";
 export default function Home() {
   return (
     <>
-      <h1>Homepage</h1>
-
+      <h1>Welcome to VMS</h1>
+      <p>Login pr create an account to get started for youre next shot</p>
       <ul className="underline">
         <li>
           <Link to="/auth" className="hover:text-blue-500">

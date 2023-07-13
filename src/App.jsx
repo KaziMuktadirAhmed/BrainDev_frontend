@@ -5,6 +5,8 @@ import Home from "./pages/home/home";
 import Auth from "./pages/auth/auth";
 import Dashboard from "./pages/dashboard/dashboard";
 
+import "./App.css";
+
 export default function App() {
   return (
     <Layout>
